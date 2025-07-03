@@ -2,7 +2,7 @@
 
 ⚠️ **Disclaimer:** This project is for educational and ethical testing purposes only. Do not use this bot to harm or disrupt servers you do not own. Misuse may result in permanent bans and legal consequences. The creator is not responsible for any damages caused by this project.
 
-## 💣 What is Nuked Bot?
+## 💣 What is NTuked Bot?
 
 Nuked Bot is a Python-based Discord bot that demonstrates the destructive capabilities of Discord bots, including mass channel deletion, role spam, and server name changes. Use it **only** on servers you own or have explicit permission to test on.
 
@@ -18,3 +18,14 @@ Nuked Bot is a Python-based Discord bot that demonstrates the destructive capabi
 
 - Python 3.8+
 - `discord.py` library (or a relevant fork like `py-cord`)
+
+## ✅ How To Work It 
+
+Install The Files
+
+- .env
+- main.py
+- Nuke-Bot By Kreopoliz.bat
+- README.md (If You Want)
+
+And Put it in a folder After This Open The Bat File And All Its Good
